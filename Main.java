@@ -1,6 +1,9 @@
 /*COP 3503C Assignment 2
 This program is written by: Lydia Emmons*/
 
+/* Reads in a word search board and words to be searched for. Outputs whether
+ * the word is found and where on the board it exists. */
+
 import java.util.*;
 
 public class Main {
