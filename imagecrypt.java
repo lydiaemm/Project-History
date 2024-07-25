@@ -1,3 +1,6 @@
+/* Takes a bitmap file named "480-360.bmp", encrypts the image using RSA Encryption,
+ * displays the encrypted image, decrypts the image, and displays the decrypted image.*/
+
 import java.io.*;
 import java.nio.*;
 import java.awt.*;
